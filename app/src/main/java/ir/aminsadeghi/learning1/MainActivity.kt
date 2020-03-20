@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         tv1.text="Hello Github!"
         var i = 1
+        var j = 0
     }
 }
