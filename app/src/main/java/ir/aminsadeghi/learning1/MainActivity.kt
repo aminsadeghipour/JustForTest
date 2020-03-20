@@ -10,7 +10,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         tv1.text="Hello Github!"
-        var i = 10
-        var j = 2
     }
 }
